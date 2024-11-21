@@ -1,5 +1,5 @@
 # Third-Person-Shooter-Plugin-Documentation
-Elevate your game development with our comprehensive Third-Person Shooter Template for Godot! Ideal for developers aiming to streamline their process, this addon provides a robust foundation for crafting exhilarating shooter games. Here you can find the future documentation.
+Elevate your game development with our comprehensive Third-Person Shooter Template for Godot! Ideal for developers aiming to streamline their process, this addon provides a robust foundation for crafting exhilarating shooter games. Here you can find the location of future documentation. For now here is the control scheme
 
 Controls
 W: Move forward.
