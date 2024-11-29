@@ -1,40 +1,43 @@
 D2 Tech Game License
 Version 1.0, November 2024
-The D2 Tech Game License allows for the free use, modification, and distribution of the source code with the condition that it shall only be used for the development of closed-source commercial or personal video games.
+
+The D2 Tech Game License governs the use and modification of the Third Person Shooter Starter Template, restricting its distribution and usage to compiled video games for personal or commercial purposes.
 
 Terms and Conditions
-Permission is hereby granted, free of charge, to any person obtaining a copy of this source code and associated documentation files (the "Source Code"), to use, modify, and merge copies of the Source Code, provided that:
 
-The Source Code shall be used solely for the development of closed-source commercial or personal video games.
+Permission is granted to any person obtaining a copy of the Third Person Shooter Starter Template and associated documentation files (the "Template") to use and modify it, provided that:
 
-This copyright notice and this permission notice, in their entierty, shall be included in all copies or substantial portions of the Software.
-
-If you are tying to create somthing with this plugin that is not a video game please reach out to us for a diffrent license.
-
-Revocation Clause:
+1. The Template may only be used for developing video games or related software, with all final products distributed exclusively in compiled form.
+2. The Template, including any derivative works or modifications, shall not be shared, redistributed, or made publicly accessible in any format.
+3. The Template may not be used to create or distribute competing templates, tools, or software.
+4. This copyright notice and permission notice, in their entirety, must be included in all substantial portions of the Template embedded within projects.
+Revocation Clause
 
 This license may be revoked at any time if any of its terms and conditions are violated.
 
-Disclaimer of Warranty:
+Disclaimer of Warranty
 
-The Source Code is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Source Code or the use or other dealings in the Source Code.
+The Template is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Template or its use in any manner.
+
+Copyright Notice
 
 Hopium Games is a division of D2 Tech. All rights reserved. © 2024.
 
-
-D2 Tech Asset License
+D2 Tech Game License
 Version 1.0, November 2024
+------------------------------------------------------------------------------------------------------------------
+Green Soldier Guy Asset
 
-Green Soldier Guy Asset:
+The Green Soldier Guy© asset is the property of D2 Tech LLC. It is provided for development purposes only and may not be used or distributed commercially. You are permitted to include the asset in development logs and videos but not in promotional materials or advertisements for your game.
 
-The Green Soldier Guy© asset is the property of D2 Tech LLC and is provided for development purposes only and not be used or distributed commercially. You may use him in development logs and videos, however not promotions of your commercial title
-
-Revocation Clause:
+Revocation Clause
 
 This license may be revoked at any time if any of its terms and conditions are violated.
 
-Disclaimer of Warranty:
+Disclaimer of Warranty
 
-The Source Code is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Source Code or the use or other dealings in the Source Code.
+The asset is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the asset or its use in any manner.
+
+Copyright Notice
 
 Hopium Games is a division of D2 Tech. All rights reserved. © 2024.
